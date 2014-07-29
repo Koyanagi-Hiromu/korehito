@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">これひと！</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="black">#000000</color>
+    <color name="green">#99cc11</color>
+    <string name="ive_memorized">覚えた！</string>
+    <string name="ive_not_memorized">まだ！</string>
+    <string name="HOME">HOME</string>
+    <string name="Modified">修正</string>
+    <string name="user_list">一覧</string>
+    <color name="blue">#3333ff</color>
+    <string name="map_description">初めて出会った場所の画像</string>
+    <string name="ive_almost_memorized">大体OK</string>
+    <string name="first_met_location">初めて出会った場所</string>
+    <string name="toOverWrap">javaで上書き</string>
+    <string name="FirstName">名字</string>
+    <string name="FamilyName">名字</string>
+    <string name="Name">お名前</string>
+    <string name="NameHiragana">よみ</string>
+    <string name="OK">決定</string>
+    <string name="profile">プロフィール</string>
+    <string name="map">地図</string>
+    <string name="remember">分かった！</string>
+    <string name="not_remember">ヒント</string>
+    <string name="question">問題</string>
+    <string name="delete">削除</string>
+    <string name="register">登録</string>
+
+</resources>
